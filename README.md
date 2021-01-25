@@ -20,8 +20,10 @@ Ambiente Cloud AWS
 - AWS VPC
 - AWS CODE Pipeline
 - Amazon API Gateway
--AWS Lambda
--Amazon RDS
+- AWS Lambda
+- Amazon RDS
+
+Postman para testes de API.
 
 # Diagrama de Arquitetura
 
