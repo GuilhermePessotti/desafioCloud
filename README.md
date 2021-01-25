@@ -26,4 +26,10 @@ Ambiente Cloud AWS
 Postman para testes de API.
 
 # Diagrama de Arquitetura
+https://github.com/GuilhermePessotti/desafioCloud/blob/main/Image_desafio_Cloud.png
 
+# Links Uteis
+
+TESTE HELLO WORLD DESAFIO CLOUD
+
+http://webdesafio-dev.sa-east-1.elasticbeanstalk.com/
