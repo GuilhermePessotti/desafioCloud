@@ -28,7 +28,7 @@ Outros
 - Terraform para pipeline de infra
 
 # Diagrama de Arquitetura
-https://github.com/GuilhermePessotti/desafioCloud/blob/main/Image_desafio_Cloud.png
+https://github.com/GuilhermePessotti/desafioCloud/blob/main/Image_desafio_CloudV2.png
 
 # Links Uteis
 
