@@ -14,6 +14,14 @@ Top 5 Usuários: Após realizar a busca utilizando a lista de Hashtag, esta func
 # Tecnologias utilizadas
 
 Tecnologias utilizadas para atender as necessidades.
+Ambiente Cloud AWS
+- AWS Elastic Beanstalk
+- Ec2 Intances
+- AWS VPC
+- AWS CODE Pipeline
+- Amazon API Gateway
+-AWS Lambda
+-Amazon RDS
 
 # Diagrama de Arquitetura
 
