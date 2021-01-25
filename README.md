@@ -23,7 +23,9 @@ Ambiente Cloud AWS
 - AWS Lambda
 - Amazon RDS
 
-Postman para testes de API.
+Outros
+- Postman para testes de API
+- Terraform para pipeline de infra
 
 # Diagrama de Arquitetura
 https://github.com/GuilhermePessotti/desafioCloud/blob/main/Image_desafio_Cloud.png
