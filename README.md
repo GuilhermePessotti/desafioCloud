@@ -36,7 +36,8 @@ TESTE HELLO WORLD DESAFIO CLOUD
 
 http://webdesafio-dev.sa-east-1.elasticbeanstalk.com/
 
-TESTE API GATEWARE POR DENTRO DA VPC VIA POSTMAN
+TESTE Amazon API GatewayE VIA POSTMAN
+
 
 
 
