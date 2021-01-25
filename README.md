@@ -38,6 +38,7 @@ http://webdesafio-dev.sa-east-1.elasticbeanstalk.com/
 
 TESTE Amazon API GatewayE VIA POSTMAN
 
+https://github.com/GuilhermePessotti/desafioCloud/blob/main/TESTE%20POSTMAN.png
 
 
 
